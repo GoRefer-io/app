@@ -2,7 +2,7 @@
   <img src="https://app.gorefer.io/favicon.ico" width="64" height="64" alt="GoRefer logo" />
 </p>
 
-<h1 align="center">GoRefer Desktop</h1>
+<h1 align="center">GoRefer Desktop + Mobile</h1>
 
 <p align="center">
   <strong>Referral Management & Commission Tracking for Tax Professionals</strong>
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/GoRefer-io/app/releases/latest"><img src="https://img.shields.io/github/v/release/GoRefer-io/app?style=flat-square&label=latest&color=605DFF" alt="Latest Release" /></a>
   <a href="https://github.com/GoRefer-io/app/releases"><img src="https://img.shields.io/github/downloads/GoRefer-io/app/total?style=flat-square&color=605DFF" alt="Downloads" /></a>
-  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Android%20%7C%20iOS-lightgrey?style=flat-square" alt="Platform" />
 </p>
 
 ---
@@ -39,6 +39,15 @@ GoRefer is a professional referral management platform built specifically for **
 | **macOS** | Apple Silicon (M1/M2/M3/M4) | [Download .dmg](https://github.com/GoRefer-io/app/releases/latest) |
 | **macOS** | Intel | [Download .dmg](https://github.com/GoRefer-io/app/releases/latest) |
 | **Windows** | 64-bit | [Download .exe](https://github.com/GoRefer-io/app/releases/latest) |
+
+### Mobile (latest published)
+
+Release: [v2026.03.16-mobile](https://github.com/GoRefer-io/app/releases/tag/v2026.03.16-mobile)
+
+| Platform | Artifact | Download |
+|----------|----------|----------|
+| **Android** | APK | [GoRefer-android.apk](https://github.com/GoRefer-io/app/releases/download/v2026.03.16-mobile/GoRefer-android.apk) |
+| **iOS** | IPA | [GoRefer-ios.ipa](https://github.com/GoRefer-io/app/releases/download/v2026.03.16-mobile/GoRefer-ios.ipa) |
 
 > **Not sure which macOS version?** Click  → **About This Mac**. If it says Apple M1/M2/M3/M4, download the **arm64** version. If it says Intel, download the **x64** version.
 
