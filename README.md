@@ -42,12 +42,12 @@ GoRefer is a professional referral management platform built specifically for **
 
 ### Mobile (latest published)
 
-Release: [v2026.03.16-mobile](https://github.com/GoRefer-io/app/releases/tag/v2026.03.16-mobile)
+Release: [v2.0.0](https://github.com/GoRefer-io/app/releases/tag/v2.0.0)
 
 | Platform | Artifact | Download |
 |----------|----------|----------|
-| **Android** | APK | [GoRefer-android.apk](https://github.com/GoRefer-io/app/releases/download/v2026.03.16-mobile/GoRefer-android.apk) |
-| **iOS** | IPA | [GoRefer-ios.ipa](https://github.com/GoRefer-io/app/releases/download/v2026.03.16-mobile/GoRefer-ios.ipa) |
+| **Android** | AAB (Play Store) | [GoRefer-v2.0.0-android.aab](https://github.com/GoRefer-io/app/releases/download/v2.0.0/GoRefer-v2.0.0-android.aab) |
+| **iOS** | IPA (unsigned) | [GoRefer-v2.0.0-ios-unsigned.ipa](https://github.com/GoRefer-io/app/releases/download/v2.0.0/GoRefer-v2.0.0-ios-unsigned.ipa) |
 
 > **Not sure which macOS version?** Click  → **About This Mac**. If it says Apple M1/M2/M3/M4, download the **arm64** version. If it says Intel, download the **x64** version.
 
